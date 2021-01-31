@@ -1,3 +1,3 @@
 ## Games-using-Python
 
-Simple single player game
+Simple single player games using Python 
